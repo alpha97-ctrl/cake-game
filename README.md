@@ -10,6 +10,7 @@ The program checks if the chosen colors are available and responds accordingly.
 
 ```bash
 python cake_game.py
+```
 
 Follow the prompts to pick three cake colors.
 The program will tell you if your selection is valid.
