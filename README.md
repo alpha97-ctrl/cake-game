@@ -20,8 +20,12 @@ BLUE, RED, GREEN, BROWN
 
 Note: Input must match these exactly (uppercase).
 
-Future Improvements
+Future Improvements:
+
 Shuffle cakes and show combinations
+
 Add a scoring system
+
 Allow lowercase input
+
 Include more colors and decorations
